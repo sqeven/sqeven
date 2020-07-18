@@ -12,7 +12,7 @@
 ```javascript
 const anmol = {
             pronouns: "He" | "Him",
-            code: ["Javascript", "Typescript", "C", "Python", "Java", "Php", "Go", "Rust"],
+            code: ["Javascript", "Typescript", "C", "Python", "Java", "Php", "Go", "Rust", "C++"],
             askMeAbout: ["web dev", "seven", "app dev", "ops dev"],
             technologies: {
                 mobileApp: ["Android App"],
@@ -26,7 +26,7 @@ const anmol = {
                     python: ["flask"]
                 },
                 devOps: ["K8S", "Docker🐳", "Drone", "Nginx"],
-                databases: ["mongo", "MySql", "ClickHouse"],
+                databases: ["Mongo", "MySql", "ClickHouse"],
                 misc: ["Firebase", "selenium", "open-cv", "php", "SuiteScript"]
             },
             architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
