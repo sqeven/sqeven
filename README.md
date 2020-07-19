@@ -23,7 +23,7 @@ const anmol = {
                 backEnd: {
                     js: ["node", "express", "deno"],
                     go: ["gin", "kit"],
-                    python: ["flask"]
+                    python: ["flask", "tensorflow", "pytorch"]
                 },
                 devOps: ["K8S", "Docker🐳", "Drone", "Nginx"],
                 databases: ["Mongo", "MySql", "ClickHouse"],
