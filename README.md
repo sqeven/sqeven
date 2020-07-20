@@ -26,7 +26,7 @@ const anmol = {
                     python: ["flask", "tensorflow", "pytorch"]
                 },
                 devOps: ["K8S", "Docker🐳", "Drone", "Nginx"],
-                databases: ["Mongo", "MySql", "ClickHouse"],
+                databases: ["Mongo", "MySql", "ClickHouse", "Redis"],
                 misc: ["Firebase", "selenium", "open-cv", "php", "SuiteScript"]
             },
             architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
